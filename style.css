@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	display: inline-block;
+	vertical-align: top;
+}
+button{
+	display: inline-block;
+	vertical-align: top;
+	padding: 2px;
+}
+span{
+	display: none;
+}
+#wrapper{
+	background-color: white;
+	width: 650px;
+}
+.contactcard{
+	display: inline-block;
+	border: 1px solid black;
+	padding: 50px 70px;
+	text-align: center;
+	margin: 10px 20px;
+	width: 150px;
+	height: 50px;
+	background-color: grey;
+
+}
+div p{
+	margin-top: 10px;
+}
